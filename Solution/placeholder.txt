@@ -1,0 +1,2 @@
+В цій теці мають бути ваші скріншоти та файли task1.md та task2.md
+Як додати картинки до Markdown-файлу, та й взагалі про синтаксис читайте тут - https://github.com/sandino/Markdown-Cheatsheet 
